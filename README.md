@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQE_Ka35AMvIHg/article-cover_image-shrink_720_1280/0/1680875902713?e=2147483647&v=beta&t=a2_WxJYolDKLg5aWQFnIOtd090eGZ9njnhd-gz2KTQQ)]()
+[![MasterHead](https://legiit-service.s3.amazonaws.com/93e4fef79f1dc82d1925af4add34e169/7b140ec924ec2f42c05e1ffa8a91673d.png)]()
 <h1 align="center">Hi 👋, I'm Shivam Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
